@@ -2,7 +2,7 @@
 
 ## 👋 Hi! I'm Jatin
 - 👀 I am interested in leveraging advanced analytics and machine learning capabilities within a big data environment to generate actionable business insights.
-- 🔭 I’m currently studying [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma)
+- 🔭 I’m currently studying [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma) at McGill Univeristy, Canada.
 - 👨‍💻 I have 4 years of experience working as a Frontend Developer with HSBC Technology India, [**Crejo.Fun**](https://www.instagram.com/crejo.fun/?hl=en) & [PhonePe](https://www.phonepe.com/)
 - 📫 How to reach me: jatin.suri@mail.mcgill.ca
 - 😄 Pronouns: he/him/his
