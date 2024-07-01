@@ -1,7 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surijatin&label=Profile+Views" alt="surijatin" /> </p>
-
-## 👋 Hi! I'm Jatin
-- 👀 I am interested in leveraging advanced analytics and machine learning capabilities within a big data environment to generate actionable business insights.
+## 👋 Hi! I'm <a href="https://www.jatinsuri.in" target="_blank" rel="noreferrer">Jatin</a>
+- 👀 I am interested in leveraging advanced analytics and machine learning capabilities within a big data environment to drive business innovation.
 - 🔭 I’m currently studying [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma) at McGill Univeristy, Canada.
 - 👨‍💻 I have 4 years of experience working as a Frontend Developer with HSBC Technology India, [**Crejo.Fun**](https://www.instagram.com/crejo.fun/?hl=en) & [PhonePe](https://www.phonepe.com/)
 - 📫 How to reach me: jatin.suri@mail.mcgill.ca
@@ -40,3 +38,4 @@ I am an enthusiastic fan of the Marvel Cinematic Universe 📽️ and also have 
 
 
 #### Thank you for visiting my profile 😄
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surijatin&label=Profile+Views" alt="surijatin" /> </p>
