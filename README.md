@@ -1,11 +1,15 @@
 ## 👋 Hi! I'm <a href="https://www.jatinsuri.in" target="_blank" rel="noreferrer">Jatin</a>
-- 👀 I am interested in leveraging advanced analytics and machine learning capabilities within a big data environment to drive business innovation.
-- 🔭 I’m currently studying [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma) at McGill Univeristy, Canada.
-- 👨‍💻 I have 4 years of experience working as a Frontend Developer with HSBC Technology India, [**Crejo.Fun**](https://www.instagram.com/crejo.fun/?hl=en) & [PhonePe](https://www.phonepe.com/)
+- 👀 I am passionate about leveraging advanced analytics and machine learning within a big data environment to drive technological and business innovation.
+- 🔭 I’ve completed my [**Master of Management in Analytics**](https://www.mcgill.ca/desautels/programs/mma) at McGill Univeristy, Canada.
+- 👨‍💻 I have 4 years of experience I've worked as a Software Engineer (Frontend) with HSBC Technology India, [**Crejo.Fun**](https://www.instagram.com/crejo.fun/?hl=en) & [PhonePe](https://www.phonepe.com/).
+- 🔭 Currently, I am focusing on building scalable data platform products, combining my expertise in full-stack development and data-driven analytics to deliver high-impact software solutions.
+- 🚀 I am particularly interested in the intersection of data platforms, software development, and emerging technologies like GenAI.
 - 📫 How to reach me: jatin.suri@mail.mcgill.ca
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 
 I am an enthusiastic fan of the Marvel Cinematic Universe 📽️ and also have a passion for playing video games, particularly Dota2 and Call of Duty 🎮
+
+Want to learn more? Visit my <a href="https://www.jatinsuri.in" target="_blank" rel="noreferrer">website</a>!
 
 #### Currently I am working with ...
 <p align="left">
